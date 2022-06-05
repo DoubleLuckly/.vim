@@ -1,2 +1,1 @@
-# job
-test for first code
+vimrc configuration
